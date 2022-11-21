@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassin Hammami</h1>
 <h3 align="center">A passionate web developer from Massilia</h3>
 
+- 🔭 I’m currently working on [Hackathon projet](https://le-bon-point.jo4marseille.fr/)
+
 - 🌱 I’m currently learning **Javascript, Angular , PHP, Symfony**
 
 - 💬 Ask me about **Javascript, Angular**

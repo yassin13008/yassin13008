@@ -49,13 +49,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/yassinhammami" target="_blank">
+  <a href="https://www.linkedin.com/yassin-hammami/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/Thk8aXxd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="la_bigwui_t" target="_blank">
+  <a href="https://www.instagram.com/la_bigwui_t/?hl=fr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>

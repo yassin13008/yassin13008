@@ -66,12 +66,4 @@
   <img height="200" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/yassin/yassin/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###

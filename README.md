@@ -16,7 +16,7 @@
 ###
 
 <p align="left">📚 I'm currently learning Javascript Ajax Angulart / J'apprends en ce moment Javascript, Ajax, Angular<br>🎯 Goals: Become a full stacks web developper / devenir un développeur web full stack<br>🎲 Fun fact: I have a communicate laugh / J'ai un rire communicatif</p>
-
+Serious fact : You cannot see my commit because i'm work on bitbuckets 
 ###
 
 <h2 align="left">I code with</h2>
